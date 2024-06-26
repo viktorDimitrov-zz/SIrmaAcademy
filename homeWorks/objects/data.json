@@ -1,0 +1,10 @@
+{
+    "name":"Pesho",
+    "age":"22",
+    "isMale":"true",
+    "grades":[
+        "2",
+        "4",
+        "6"
+    ]
+}
