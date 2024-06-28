@@ -1,0 +1,7 @@
+.percentage-width {
+    width: 50%;
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+    margin: 0 auto; /* Center the div */
+}
