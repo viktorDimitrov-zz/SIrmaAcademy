@@ -1,0 +1,16 @@
+p {
+    /* Style for type selector */
+    font-size: 16px;
+    background-color: red;
+    padding: 50px;
+    margin: 20px auto;
+
+}
+
+.highlight {
+    /* Style for class selector */
+    font-size: 30PX;
+    background-color: lightblue;
+    padding: 10px;
+    margin: 20px auto;
+}
