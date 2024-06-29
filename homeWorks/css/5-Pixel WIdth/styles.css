@@ -1,0 +1,6 @@
+.fixed-width{
+    width: 300px;
+    background-color: lightblue;
+    padding: 20px;
+    margin: 10px auto;
+}
