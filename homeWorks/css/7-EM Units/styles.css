@@ -1,0 +1,16 @@
+.parent {
+    /* Set font-size to 20px */
+    font-size: 40px;
+    width: 300px;
+    background-color: lightgreen;
+    padding: 10px;
+    margin: 20px auto; 
+}
+
+.child {
+    /* Set font-size to 1.5em */
+    font-size: 1.5em;
+    background-color: lightblue;
+    padding: 10px;
+    margin: 20px auto; 
+}
