@@ -1,0 +1,30 @@
+.block {
+    display: block;
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    padding: 10px;
+    background-color: lightblue;
+    border: 1px solid blue;
+   
+}
+
+.inline {
+    display: inline;
+    margin: 10px;
+    padding: 10px;
+    background-color:yellow;
+    border: 1px solid blue;
+   
+}
+
+.inline-block {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    padding: 10px;
+    background-color: red;
+    border: 1px solid blue;
+    vertical-align: top;
+}
