@@ -1,0 +1,10 @@
+.box {
+    /* margin, border, padding, and content area */
+    width: 200px;
+    height: 100px;
+    margin: 20px auto;
+    border: 5px solid #000;
+    padding: 10px;
+    background-color: lightblue;
+    ma
+}
